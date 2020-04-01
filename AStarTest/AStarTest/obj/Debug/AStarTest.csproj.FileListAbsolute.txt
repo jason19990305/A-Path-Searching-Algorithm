@@ -1,0 +1,10 @@
+C:\Users\k85i9\source\repos\AStarTest\AStarTest\bin\Debug\AStarTest.exe.config
+C:\Users\k85i9\source\repos\AStarTest\AStarTest\bin\Debug\AStarTest.exe
+C:\Users\k85i9\source\repos\AStarTest\AStarTest\bin\Debug\AStarTest.pdb
+C:\Users\k85i9\source\repos\AStarTest\AStarTest\obj\Debug\AStarTest.csprojAssemblyReference.cache
+C:\Users\k85i9\source\repos\AStarTest\AStarTest\obj\Debug\AStarTest.Form1.resources
+C:\Users\k85i9\source\repos\AStarTest\AStarTest\obj\Debug\AStarTest.Properties.Resources.resources
+C:\Users\k85i9\source\repos\AStarTest\AStarTest\obj\Debug\AStarTest.csproj.GenerateResource.cache
+C:\Users\k85i9\source\repos\AStarTest\AStarTest\obj\Debug\AStarTest.csproj.CoreCompileInputs.cache
+C:\Users\k85i9\source\repos\AStarTest\AStarTest\obj\Debug\AStarTest.exe
+C:\Users\k85i9\source\repos\AStarTest\AStarTest\obj\Debug\AStarTest.pdb
